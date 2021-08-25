@@ -17,7 +17,7 @@ page_sections:
     alt_text: ''
 - template: simple-footer
   block: footer-1
-  content: ''
+  content: Here's the footer
 published: false
 
 ---
