@@ -10,8 +10,8 @@ page_sections:
   - link: "/example-page"
     link_text: Example Page
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: "#"
+    button_text: CTA
 - template: hero-banner-w-image
   block: hero-2
   slug: features
