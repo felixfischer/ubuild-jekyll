@@ -15,7 +15,7 @@ page_sections:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: ''
   headline: This is the <br><strong>Headline</strong>
-  content: Lorem ipsum
+  content: Lorem <a href="#" title="Link">ipsum</a>
   cta:
     enabled: true
     url: "#"
