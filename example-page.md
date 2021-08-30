@@ -14,6 +14,22 @@ page_sections:
   cta:
     url: "#"
     button_text: Click here
+- template: hero-banner-w-image
+  block: hero-2
+  image:
+    image: "/uploads/2018/06/21/product-shot-1.png"
+    alt_text: ''
+  headline: Headline
+  content: I recommend you don't fire until you're within 40,000 kilometers. Did you
+    come here for something in particular or just general Riker-bashing? Ensign Babyface!
+    Computer, lights up! I'm afraid I still don't understand, sir. Some days you get
+    the bear, and some days the bear gets you. Maybe if we felt any human loss as
+    keenly as we feel one of those close to us, human history would be far less bloody.
+  cta:
+    enabled: true
+    url: "#"
+    button_text: Go For It
+  background_image: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
