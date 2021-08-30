@@ -21,5 +21,9 @@ page_sections:
     url: "#"
     button_text: Go For It
   background_image: ''
+- template: detail-content
+  block: text-1
+  headline: Headline
+  content: "<p>Test</p>"
 
 ---
