@@ -38,6 +38,5 @@ page_sections:
     Computer, lights up! I'm afraid I still don't understand, sir. Some days you get
     the bear, and some days the bear gets you. Maybe if we felt any human loss as
     keenly as we feel one of those close to us, human history would be far less bloody.
-published: false
 
 ---
