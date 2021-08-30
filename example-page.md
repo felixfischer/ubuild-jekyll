@@ -30,6 +30,10 @@ page_sections:
     url: "#"
     button_text: Go For It
   background_image: ''
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
